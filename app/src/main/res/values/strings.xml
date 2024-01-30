@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Safety For Everyone</string>
+    <string name="login">Login</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="register">Register</string>
+    <string name="click_to_login">click to login</string>
+    <string name="click_to_register">click to register</string>
+    <string name="logout">logout</string>
+    <string name="show_password">Show Password</string>
+    <string name="welcome_message" />
+    <string name="welcome">Welcome, %1$s</string>
+    <string name="logout_button_text">Logout</string>
+    </resources>
