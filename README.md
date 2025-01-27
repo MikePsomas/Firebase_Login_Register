@@ -93,8 +93,8 @@ This Android application demonstrates a fully functional user authentication sys
 ## 📑 Code Highlights
 
 ### MainActivity
-- Redirects unauthenticated users to the login screen:
-  ```kotlin
+ Redirects unauthenticated users to the login screen:
+  
 ![carbon](https://github.com/user-attachments/assets/2a45b0d8-ccc1-4c8f-8ecf-ef9016ea2226)
 
 ### Login
