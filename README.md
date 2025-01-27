@@ -114,6 +114,11 @@ Implement email verification using Firebase.
 Improve the UI with additional Material Design components.
 Add support for social media login (e.g., Google, Facebook).
 
+### Attribution License
+
+This code is based on a tutorial from the YouTube channel "Codes Easy" (https://www.youtube.com/@CodesEasy). It was freely available for learning purposes and can be used as long as credit is given to the original source. No warranties are provided, and the software is used at your own risk.
+
+
 
 
 
