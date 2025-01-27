@@ -106,3 +106,14 @@ Authenticates the user and handles invalid credentials:
 ### Registers a new user with Firebase Authentication:
 ![carbon (2)](https://github.com/user-attachments/assets/90436c27-86cc-4f3a-9b4b-e64151b36d37)
 
+
+
+### Future Enhancements
+Add password strength validation during registration.
+Implement email verification using Firebase.
+Improve the UI with additional Material Design components.
+Add support for social media login (e.g., Google, Facebook).
+
+
+
+
